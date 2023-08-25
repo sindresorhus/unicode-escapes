@@ -1,6 +1,6 @@
 {
 	"name": "unicode-escapes",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Encode and decode Unicode escapes in a string",
 	"license": "MIT",
 	"repository": "sindresorhus/unicode-escapes",
